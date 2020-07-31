@@ -31,3 +31,7 @@ function timer() {
         if (count === 0) clearInterval(element.interval);
     }, 1000);
 }
+let prva = 0;
+let druga = 23;
+let treca = 99;
+let peta = 22;
